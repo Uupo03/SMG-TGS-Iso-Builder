@@ -1,0 +1,19 @@
+Possible Crashes:
+-Megaleg
+If you beat megaleg with exactly 12 stars, the game tries to bring up Rosalina's "grand star 2" text and "prankster comets" text at the same time causing a crash. Playing it with 8-11 and 13+ stars are OK.
+-The worldmap (Butler Luma).
+It is recommended that you don't click the galaxies on the worldmap. A crash occurs due to the game trying to load a comet indicator which does not appear.
+-Loopdeeswoop Galaxy when grabbing a star.
+To avoid a crash, when collecting the star don't move the controller.
+-Entering Grand Finale:
+May have been only while I was editing the observatory, I believe the issue is fixed as of the last time I tested.
+
+Bugs:
+-The observatory can get a little messed up if you play on an existing/100% file. Please make a new file.
+-Moving the star in Gateway Galaxy made some strange stuff happen near the last planet. This shouldn't be too much of an issue.
+-Some single galaxies don't appear/won't have a name on the worldmap, and the hungry lumas will stay on there. The worldmap shouldn't be used anyways.
+-The secret star location indicator is bit broken. It only shows that there is a secret star in mission 1. (Even if you collected secret star 1 but not 2.)
+-If you collect secret star 2 and then select it on the mission select, it will always bring you to mission 1.
+-After getting all the stars, the Luigi profile will not unlock. To play as Luigi, you must have a 100% Mario file complete on the ORIGINAL SMG.
+
+Please report any other bugs or crashes.
